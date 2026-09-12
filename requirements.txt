@@ -1,0 +1,16 @@
+langchain>=0.1.0,<0.3
+langchain-community>=0.0.20,<0.3
+faiss-cpu>=1.7.4
+transformers>=4.36.0
+torch>=2.0.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Document loaders
+pypdf>=3.17.0
+unstructured>=0.11.0
+openpyxl>=3.1.0
+
+# Web application backend (app/backend)
+flask>=3.0.0
+flask-cors>=4.0.0

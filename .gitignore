@@ -1,0 +1,30 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Node
+node_modules/
+app/frontend/build/
+
+# Runtime artefacts
+faiss_index/
+uploads/
+chat_history/
+projects/
+public_files/
+results/
+temp_docs/
+*.log
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
